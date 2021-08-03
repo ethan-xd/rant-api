@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "349095a031735fd7766eb9aacf06a1b359c88e68"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "rant-tcp/1.0.0": {
+        "dependencies": {
+          "Rant": "3.0.530"
+        },
+        "runtime": {
+          "rant-tcp.dll": {}
+        }
+      },
+      "Rant/3.0.530": {
+        "runtime": {
+          "lib/net45/Rant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rant-tcp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rant/3.0.530": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XVuvJGydVFZupN91Nkbx4Dd+/FgDvUlLmpaqOQxpK8Vd7AMOkuBhxbh2dW2cko9PF6SgEBVIFmNl8Fg4aziKtQ==",
+      "path": "rant/3.0.530",
+      "hashPath": "rant.3.0.530.nupkg.sha512"
+    }
+  }
+}

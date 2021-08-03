@@ -1,0 +1,12 @@
+{
+  "name": "rant-api",
+  "version": "1.0.0",
+  "description": "Rant API",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": "botmin",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.9.4"
+  }
+}
